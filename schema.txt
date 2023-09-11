@@ -1,0 +1,2 @@
+employee#id#int#name#varchar(20)#salary#int
+student#id#int#name#varchar(20)#division#varchar(5)#marks#int#
